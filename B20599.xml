@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concealed murther reveild. Being a strange discovery of a most horrid and barbarous murther, that was committed in St. Catherins-Lane near Tower-Hill, by Mary Anderson, alias Farrel, on the body of Hannah Jones an infant of 8 weeks old, the child of Mr. Jones, an eminent Joyner at the Globe in Hounds-Ditch. As also how it was conceal'd 3 years, and not discovred till Monday last, at which time, she confessed that she had drowned the infant in a pail of water: with her examination before Justice Webber in Good-Mans-Fields, and her committment to Newgate on Tuesday last, with other remarkable particulars.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20599</idno><idno type="EEBO-CITATION">99886828</idno>
+  <idno type="VID">189499</idno>
+  <idno type="EEBO-PROQUEST">2264217004</idno>
+  
+            <idno type="STC">Wing C5693</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[5]</idno>
+            <idno type="STC">ESTC R226647</idno>
+            <idno type="PROQUEST">ocm99886828</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886828e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189499)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concealed murther reveild. Being a strange discovery of a most horrid and barbarous murther, that was committed in St. Catherins-Lane near Tower-Hill, by Mary Anderson, alias Farrel, on the body of Hannah Jones an infant of 8 weeks old, the child of Mr. Jones, an eminent Joyner at the Globe in Hounds-Ditch. As also how it was conceal'd 3 years, and not discovred till Monday last, at which time, she confessed that she had drowned the infant in a pail of water: with her examination before Justice Webber in Good-Mans-Fields, and her committment to Newgate on Tuesday last, with other remarkable particulars.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Aldredge in Southwark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Wing title reads: "Concealed murther reveil'd".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189499:1"/>
+            <pb facs="tcp:189499:1"/>
+            <head>Concealed Murther Reveild.</head>
+            <head type="sub">Being a Strange <hi>Discovery</hi> of a most <hi>Horrid</hi> and Barbarous Murther, That was Committed in St. <hi>Catherins-Lane</hi> near <hi>Tower-Hill,</hi> By <hi>Mary Anderson,</hi> alias <hi>Farrel,</hi> On the Body of Hannah Jones an Infant Of 8 Weeks Old, the Child of Mr. <hi>Jones,</hi> an Eminent <hi>Joyner</hi> at the <hi>Globe</hi> in <hi>Hounds-Ditch.</hi>
+            </head>
+            <head type="sub">As also <hi>How it was Conceal'd</hi> 3 <hi>Years, and not Discovred till</hi> Monday <hi>last, at which time, she Confessed that she had Drowned the Infant in a Pail of Water: With her Examination before Justice</hi> Webber <hi>in</hi> Good-Mans-Fields, <hi>and her Committment to</hi> Newgate <hi>on</hi> Tuesday <hi>last, with other Remarkable Par<g ref="char:EOLhyphen"/>ticulars.</hi>
+            </head>
+            <p>
+               <hi>MARY ANDERSON,</hi> Wife to <hi>Thomas Anderson</hi> Ship Carpenter who is at <hi>Portsmouth,</hi> having Lived some time with her Mother Mrs. <hi>Farrel</hi> in St. <hi>Catherins-lane</hi> near <hi>Tower-hill,</hi> who got her Livehood by nurss Keeping, the old Woman being a Widdow, Endeavoured to prefer her said Daugh<g ref="char:EOLhyphen"/>ter to the same Bussiness of taking Children to Nurse, and the raither be<g ref="char:EOLhyphen"/>cause she had a young Child of her own, so that being qualified for this undertaking her Mother made application to Mrs. <hi>Jones,</hi> an eminent Joyners Wife at the <hi>Globe</hi> and <hi>Cain-Chare</hi> in <hi>Hounds-dich,</hi> in order for the said Daughter to Nurss a young Female Child, which she had to put out; so having agreed to let her keep it at 4 <hi>s.</hi> per Week the Child was sent to her when it was about three Weeks old, where it continued: for about a Month, to the satisfaction of the Parents, who often went to see it; But before she had kept it full five Weeks, word was brought to Mrs. <hi>jones</hi> that her Child was Dead, and that it Dyed suddainly in a violent Fit; and tho Mrs. <hi>jones</hi> seem'd to doubt of some neglect that the said Nurss might be guilty of, by accidentaly Overlaying it, or the like: Yet in regard no appearance of Violence could be Discovered on its Tender Body, she at last concluded it Dyed a Natural (tho sundain) Death, and from that time (which was in <hi>October,</hi> 1696.) till the time of the Discovery of the Murther, no more questions were made Concerning it.</p>
+            <p>But alass Murther is too heavy a Sin to be conceal'd always, tho' the thoughts of such Loathsome Barbarity may be smothered for a time, yet the continual Stings of Con<g ref="char:EOLhyphen"/>science will be like so many Gastly Ghosts to stare the Murtherer in the Face, till it causes flames of Terror and Dispare to break out with uncontroulable Violence; for Blood will never cease Crying for Vengeance, till such horrid deeds of Darkness are brought to light.</p>
+            <p>But before I insist on the manner of this Strange Discovery I will instance the Circum<g ref="char:EOLhyphen"/>stance of the Murther it self, which is as followeth, <hi>viz.</hi> having as you have heard, ta<g ref="char:EOLhyphen"/>ken the said Child to Nurse (whose name was <hi>Hannah jones</hi>) and kept it near 5 Weeks, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he the said <hi>Mary Anderson</hi> one Morning (as she herself declared) about 4 of the Clock Lighted a Candle, and taken the said Child out of its Bed by reason of its violent Cry<g ref="char:EOLhyphen"/>ing, which she says it was very subject two, and having at the same time a Young one of
+<pb facs="tcp:189499:2"/>her own in the Bed with her, then a Sleep, she was so wickedly incensed against th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> poor Harmless and Innocent Infant, and for no other reason but thinking it would d<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sturb her's; and the Devil having taken Possession of her Heart: She fills a Pa<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> full<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Water and taking the Crying Infant in its Swadling-Clouts, and in a wr<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>hed mann<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Plung'd it over Head and Ears into the Water, where with her Devilish and Unmer<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ful Hands, she held the Body under Water, till its Innocent Life was Expired.</p>
+            <p>Having perform'd this hateful and unparralelled Barbarity, the awak<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> her Sister <hi>(Elizabeth Farrel)</hi> who was in a Bed in the same Room by tellin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> her what she had done, who being much amaz'd and aff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighted leap'd out<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Bed and took the Child out of the Water, and withall speed took it to th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Fire in order (if possible) to bring it to Life, but all in vain, whereupo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the old Mother was inform'd of this unhappy Action, who in order to sa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> her Daughters Life advised them how to Conceal it which was by dryi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Childs Body, and after to send Mrs. <hi>Jones</hi> word that it Dy'd in a F<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which was accordingly done as aforesaid, so that the said Barbarous Murth<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was kept Secret in the brest of the Mother and her two Daughters for nea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> three Years successivily. But their Mother Dying last Week, it tis reporte<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that her Ghost, (or rather her won Conscience) so Tormented her that<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> could not rest till she made a discovery thereof, and accordingly on <hi>Mond<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> last she sent for one Mrs. <hi>Shephard</hi> and others of her next Neighbours, an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Declared the sad Circumstances relating thereto as before, whereupon s<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and her Maiden Sister <hi>Elizabeth Farrel</hi> were Apprehended and Carried b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore the Worshipful Justice <hi>Webber</hi> in <hi>Goodmans Fields,</hi> where she confirm'<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what she had before Declared to her Neighbours; after which the Justi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> demanded of her Sister why she conceal'd such a Cruel and Barbarous Act<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on, to which she reply'd that her Mother and Sister did threaten her wit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Death if <hi>she</hi> did discover it and added that <hi>she</hi> was in great torter of Min<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ever since the Murther was Committed, and that <hi>she</hi> knew nothing of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> till the Infant was Dead, besides <hi>she</hi> was loath to take her Sisters Life awa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thinking thereby that it would as much burthen her Conscience as Co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cealing the Murther; whereupon after the Justice had weighted and co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fidered all circumstances he took <hi>Bail</hi> for her Appearance at the next Sessio<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but Committed <hi>Mary Anderson</hi> her Sister who Murthered the Child to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> and accordingly <hi>she</hi> was carried thither in a Coach about one of th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Clock on <hi>Tuesday</hi> last.</p>
+            <p>Since her Commitment we are Credibly inform'd that <hi>she</hi> has once<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> twice attempted to Drown her own Child after the same barbarous ma<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ner had <hi>she</hi> not been prevented by her Sister.</p>
+            <p>'Twas also observed that the aforesaid <hi>Mary Anderson</hi> was at some certai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> times very Malencholy and Dejected, ever finee <hi>she</hi> Committed this Fat<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Tragical Action and her Mother (when alive) being asked by th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Neighbours what was the occasion thereof, <hi>she</hi> would usually fetch a grea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sigh and tell them that <hi>she</hi> had done a very ill thing, but none did in th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> least immagin <hi>she</hi> was guilty of such a wretched <hi>Barbarity</hi> as is now mad<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> publick.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licens'd according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Aldredge</hi> in <hi>Southwark.</hi>
+            </p>
+            <pb facs="tcp:189499:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
